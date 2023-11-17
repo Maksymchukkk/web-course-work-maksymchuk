@@ -1,0 +1,24 @@
+.card {
+    margin: 8px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+.active {
+    transition-duration: 300ms;
+    background: #333;
+    color: #fefefe;
+}
+
+
+
+.field {
+    font-weight: 300;
+}
+
+.fieldTitle {
+    font-weight: 600;
+}
